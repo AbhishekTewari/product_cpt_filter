@@ -2,16 +2,6 @@
 
 /**
  * The plugin bootstrap file
- *
- * This file is read by WordPress to generate the plugin information in the plugin
- * admin area. This file also includes all of the dependencies used by the plugin,
- * registers the activation and deactivation functions, and defines a function
- * that starts the plugin.
- *
- * @link              https://https://github.com/AbhishekTewari/product_cpt_filter
- * @since             1.0.0
- * @package           Pcp
- *
  * @wordpress-plugin
  * Plugin Name:       Product Custom Post & Filter
  * Plugin URI:        https://https://github.com/AbhishekTewari/product_cpt_filter
@@ -32,7 +22,6 @@ if ( ! defined( 'WPINC' ) ) {
 
 /**
  * Currently plugin version.
- * Start at version 1.0.0 and use SemVer - https://semver.org
  * Rename this for your plugin and update it as you release new versions.
  */
 define( 'PCP_VERSION', '1.0.0' );
